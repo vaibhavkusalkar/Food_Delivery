@@ -1,16 +1,58 @@
-# food_delivery
+# 🍕Express Eats
+ A Food Delivery App. 
+ - BloC State Management Library
+ - Clean Architecture
 
-A Food Delivery App using Flutter.
+ 
+ Star⭐ the repo if you like what you see😉.
+ ### Built using Flutter 💙
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![App Screenshots](https://github.com/vaibhavkusalkar/Club_Management/blob/67fb024bf37881fc82b97295234a3d98aa85605f/mockups/Mockup_Student.png)
+## Functionality
+* Splash Screen
+* Sign In/Sign Up
+* Home Page
+* Hotel Page
+* Search Page
+* Cart Page
 
-A few resources to get you started if this is your first Flutter project:
+*Features/Functionality Must Be Added Gradually as the App is Under Development Phase.
+    
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Requirements
+
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* A Knowledge of Dart, Flutter And BloC to Understand the Code.
+
+## Project Installation
+Follow the steps properly -
+
+- Flutter SDK Must be installed properly.
+
+- Clone Repository
+```bash
+  gh repo clone vaibhavkusalkar/Food_Delivery
+```
+
+- Get into the Project folder (i.e Food_Delivery)
+```bash
+  cd Food_Delivery
+```
+
+- Run
+```bash
+  flutter clean
+```
+```bash
+  flutter pub get
+```
+
+The App is ready to use !
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
