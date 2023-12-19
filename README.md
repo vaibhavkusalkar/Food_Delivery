@@ -9,7 +9,7 @@
 
 ## Screenshots
 
-![App Screenshots](https://github.com/vaibhavkusalkar/Club_Management/blob/67fb024bf37881fc82b97295234a3d98aa85605f/mockups/Mockup_Student.png)
+![App Screenshots](https://github.com/vaibhavkusalkar/)
 ## Functionality
 * Splash Screen
 * Sign In/Sign Up
